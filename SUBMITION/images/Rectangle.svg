@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 85" width="126" height="85">
+	<title>Design</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Design">
+		<path id="Rectangle" class="shp0" d="M0.43 0.64L125.28 0.64L125.28 7.41L0.43 7.41L0.43 0.64ZM0.43 39.3L125.28 39.3L125.28 46.07L0.43 46.07L0.43 39.3ZM0.43 77.96L125.28 77.96L125.28 84.74L0.43 84.74L0.43 77.96Z" />
+	</g>
+</svg>
